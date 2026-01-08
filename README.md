@@ -41,13 +41,5 @@ Build a deployable, autonomous AI agent that simplifies job discovery and decisi
 ---
 
 
-### ✅ This is PERFECT for:
-- GitHub
-- Resume link
-- Internship interviews
 
----
-
-
-
-**Made by - Dhruv Kumar**
+**Made with ❤️ by Dhruv Kumar**
